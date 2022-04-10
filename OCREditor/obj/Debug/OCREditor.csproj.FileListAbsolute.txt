@@ -1,0 +1,16 @@
+C:\wpf_projects\OCREditor\OCREditor\bin\Debug\OCREditor.exe.config
+C:\wpf_projects\OCREditor\OCREditor\bin\Debug\OCREditor.exe
+C:\wpf_projects\OCREditor\OCREditor\bin\Debug\OCREditor.pdb
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor.csproj.AssemblyReference.cache
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor.csproj.SuggestedBindingRedirects.cache
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\MainWindow.g.cs
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\App.g.cs
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor_MarkupCompile.cache
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor_MarkupCompile.lref
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\MainWindow.baml
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor.g.resources
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor.Properties.Resources.resources
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor.csproj.GenerateResource.cache
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor.csproj.CoreCompileInputs.cache
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor.exe
+C:\wpf_projects\OCREditor\OCREditor\obj\Debug\OCREditor.pdb

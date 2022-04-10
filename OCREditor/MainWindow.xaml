@@ -1,0 +1,59 @@
+﻿<Window x:Class="OCREditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OCREditor"
+        mc:Ignorable="d"
+        Title="Office Ware OCREdtior"
+        Height="450"
+        Width="800"
+        WindowState="Maximized"
+    >
+    <DockPanel>
+        <Menu
+            DockPanel.Dock="Top"
+            Height="25"
+        >
+            <MenuItem
+                Header="Файл"    
+            >
+                <MenuItem
+                    Header="Экспортировать во текстовый файл"
+                    Click="ExportToTextFileHandler"
+                />
+            </MenuItem>
+            <MenuItem
+                Header="Распознавание"    
+            >
+                <MenuItem
+                    Header="Распознать текст"
+                    Click="RecognizeHandler"
+                />
+            </MenuItem>
+        </Menu>
+        <StackPanel
+            DockPanel.Dock="Bottom"
+            Background="Red"
+            Height="25"
+        >
+            
+        </StackPanel>
+        <DockPanel
+            DockPanel.Dock="Top"    
+        >
+            <ScrollViewer>
+                <StackPanel
+                    DockPanel.Dock="Bottom"
+                    Background="Green"
+                >
+                    <TextBox
+                        x:Name="recognizedTextBox"
+                        Margin="15"
+                        MinHeight="150"
+                    />
+                </StackPanel>
+            </ScrollViewer>
+        </DockPanel>
+    </DockPanel>
+</Window>
